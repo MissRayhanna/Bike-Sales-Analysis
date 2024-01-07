@@ -4,6 +4,9 @@
 
 This data analysis project aims to provide insights on the factors contributing to the sales performance of bikes in the store using Excel. By analyzing various aspect of the Bike sales dataset, we seek to identify trends, make data-driven recommendations, gain deeper understanding of the store's performance.
 
+![data overview](https://github.com/MissRayhanna/Bike-Sales-Analysis/assets/47420071/7cbae0f1-6e6f-49b2-bbd8-0820db64198a)
+
+
 ### Data Sources
 
 Sales Data: The primary dataset used for this analysis is the "bike_sales_data.xlsx" file, containing detailed information about each sale made by the store.
@@ -26,13 +29,25 @@ In the initial data preparation phase, we performed the following tasks:
 EDA involved exploring the sales data to answer key questions such as:
 
 - What is the average income per purchase?
+
+![Avg Income per purchase chart](https://github.com/MissRayhanna/Bike-Sales-Analysis/assets/47420071/173b0abe-dd28-4c29-85c9-afc0b923301e)
+
+![Average Income pivot table](https://github.com/MissRayhanna/Bike-Sales-Analysis/assets/47420071/adb0743e-7e48-4650-8fe7-422741f6f7bf)
+
 - What are the customers commute distance?
+
+![Cummute distance](https://github.com/MissRayhanna/Bike-Sales-Analysis/assets/47420071/afdd34f5-d704-42fc-96f1-6b13e237ae80)
+
 - Which age bracket purchase more?
+
+![Customer Age bracket chart](https://github.com/MissRayhanna/Bike-Sales-Analysis/assets/47420071/fbe27fb2-f68e-4f68-af1b-f3dc981d60bb)
+
 
 ### Data Analysis
 
 Performed data analysis using pivot tables
 
+![Bike sales dashboard](https://github.com/MissRayhanna/Bike-Sales-Analysis/assets/47420071/791e0f00-b3ab-4527-b8b8-6d30c9c62826)
 
 
 
