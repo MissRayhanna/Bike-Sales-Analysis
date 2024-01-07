@@ -35,13 +35,9 @@ EDA involved exploring the sales data to answer key questions such as:
 
 - What is the average income per purchase?
 
-![Avg Income per purchase chart](https://github.com/MissRayhanna/Bike-Sales-Analysis/assets/47420071/173b0abe-dd28-4c29-85c9-afc0b923301e)
-
 - What are the customers commute distance?
 
 - Which age bracket purchase more?
-
-![Customer Age bracket chart](https://github.com/MissRayhanna/Bike-Sales-Analysis/assets/47420071/fbe27fb2-f68e-4f68-af1b-f3dc981d60bb)
 
 
 ### Data Analysis
@@ -52,6 +48,8 @@ Performed data analysis using pivot tables
 ![Average Income pivot table](https://github.com/MissRayhanna/Bike-Sales-Analysis/assets/47420071/adb0743e-7e48-4650-8fe7-422741f6f7bf)
 
 ![Cummute distance](https://github.com/MissRayhanna/Bike-Sales-Analysis/assets/47420071/afdd34f5-d704-42fc-96f1-6b13e237ae80)
+
+![Customer age bracket pivot table](https://github.com/MissRayhanna/Bike-Sales-Analysis/assets/47420071/81fc5848-6b3e-4899-870f-d792a336e99b)
 
 
 ### Results/ Findings
