@@ -1,4 +1,4 @@
-# E-Commerce Sales Analysis
+# Bike Sales Analysis
 
 ### Project Overview
 
@@ -32,6 +32,10 @@ EDA involved exploring the sales data to answer key questions such as:
 ### Data Analysis
 
 Performed data analysis using pivot tables
+
+
+
+
 
 ### Results/ Findings
 
